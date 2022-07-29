@@ -1,0 +1,24 @@
+{
+    "nama" : "MALANG",
+    "bioskop1" : "ARAYA XXI",
+    "bioskop2" : "DIENG",
+    "bioskop3" : "MALANG TOWN SQUARE CINEPOLIS"
+},
+{
+    "nama" : "MOJOKERTO",
+    "bioskop1" : "SUNRISE MALL CGV",
+    "bioskop2" : "SUNRISE MALL CGV",
+    "bioskop3" : "SUNRISE MALL CGV"
+},
+{
+    "nama" : "SIDOARJO",
+    "bioskop1" : "CIPLAZ SIDOARJO XXI",
+    "bioskop2" : "LIPPO PLAZA SIDOARJO CINEPOLIS",
+    "bioskop3" : "TRANSMART SIDOARJO XXI"
+},
+{
+    "nama" : "SURABAYA",
+    "bioskop1" : "CITY OF TOMORROW CINEPOLIS",
+    "bioskop2" : "DELTA XXI",
+    "bioskop3" : "PAKUWON CITY XXI"
+}

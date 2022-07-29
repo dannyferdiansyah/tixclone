@@ -1,0 +1,35 @@
+{
+    "nama" : "Dilan 1990",
+    "image" : "https://cdn-brilio-net.akamaized.net/community/community-news/2020/02/13/814ef2d9469187dfef1da9d35550ebf9/12-image_1581503223_5e43d2f701bd4.jpg",
+    "durasi" : "1j 48m",
+    "harga" : "25.000",
+    "kursi" : "32 tempat tersedia"
+}
+{
+    "nama" : "Dilan 1991",
+    "image" : "https://pingkoweb.com/wp-content/uploads/2019/09/dilan-1991.jpg",
+    "durasi" : "1j 48m",
+    "harga" : "25.000",
+    "kursi" : "4 tempat tersedia"
+}
+{
+    "nama" : "Tukang Bubur Naik Haji",
+    "image" : "http://www.lintasberita.web.id/wp-content/uploads/2012/12/Tukang-Bubur-Naik-Haji-The-Series-di-RCTI.jpg",
+    "durasi" : "10j 48m",
+    "harga" : "75.000",
+    "kursi" : "40 tempat tersedia"
+}
+{
+    "nama" : "Home Alone",
+    "image" : "https://mediapijar.com/wp-content/uploads/2021/12/Home-Alone.jpg",
+    "durasi" : "2j 30m",
+    "harga" : "85.000",
+    "kursi" : "2 tempat tersedia"
+}
+{
+    "nama" : "THOR LOVE AND THUNDER",
+    "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/30/2960718073.jpeg",
+    "durasi" : "2j 30m",
+    "harga" : "85.000",
+    "kursi" : "3 tempat tersedia"
+}
